@@ -1,2 +1,2 @@
-# shipping_plugins_eshipz
-eShipz Shipping Plugins for Various eCommerce Platforms
+# shipping_plugins_ezship
+ezShip Shipping Plugins for Various eCommerce Platforms
